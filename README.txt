@@ -1,3 +1,1 @@
 Hello Git and GitHub
-
-Testing connexion...
